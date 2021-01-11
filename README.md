@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=DoK6lYnISc4
+
 oreboot README
 ==============
 
